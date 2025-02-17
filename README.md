@@ -1,6 +1,6 @@
 # Welcome! 🌸👩‍💻
 
-👋 Hi, I’m Kate from [kately.co](https://kately.co) 🌱
+👋 Hi, I’m Kate from [kately.co](https://kately.co/the-kately-blog) 🌱
 
 ✨ I'm a **designer** who loves merging **technology** with a more thoughtful, eco-friendly approach to life. I believe **AI** can help us all live with more **freedom** and **independence**, freeing us from the constraints of big corporations and the traditional grind. 💻✨
 
